@@ -1,0 +1,36 @@
+import numpy as np # linear algebra
+import pandas as pd # data processing, CSV file I/O (e.g. pd.read_csv)
+import matplotlib.pyplot as plt
+from matplotlib import style
+style.use('fivethirtyeight')
+import sklearn
+from sklearn.linear_model import LinearRegression
+from sklearn.model_selection import train_test_split
+import seaborn as sns
+from sklearn import metrics
+
+data = pd.read_csv("F:/Machine learning/Dataset/Regression.csv")
+
+#data.describe()
+print(data.describe())
+
+print(data.shape)
+
+data.isnull().sum()
+#Histogram to see how the data is skewed
+# we specifically check the data distribution to decide by which value we can replace the missing observations. 
+#In this case, since the data is somewhat normally distributed, we use mean to replace the missing values
+
+data.hist(column='Age')
+
+from sklearn.metrics import confusion_matrix
+from sklearn.metrics import confusion_matrix
+cm = confusion_matrix(y_test,y_predicted)
+cm
+
+import seaborn as sn 
+plt.figure(figsize= (10,7))
+sn.heatmap(cm,annot=True)
+plt.xlabel('Predicted')
+plt.ylabel('Truth')
+

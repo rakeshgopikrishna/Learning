@@ -1,0 +1,101 @@
+Linear Regression
+http://setosa.io/ev/ordinary-least-squares-regression/
+https://github.com/justmarkham/DAT4/blob/master/notebooks/08_linear_regression.ipynb
+
+
+Logistic regression
+https://www.datacamp.com/community/tutorials/understanding-logistic-regression-python
+https://towardsdatascience.com/understanding-logistic-regression-9b02c2aec102
+
+
+Hypothesis Testing
+https://www.analyticsvidhya.com/blog/2015/09/hypothesis-testing-explained/
+http://www.shodor.org/interactivate/activities/
+https://scikit-learn.org/stable/modules/classes.html#module-sklearn.metrics
+
+Data Exploration:
+================
+
+https://medium.com/district-data-labs/data-exploration-with-python-part-1-643fda933479
+https://www.districtdatalabs.com/data-exploration-with-python-2
+https://www.districtdatalabs.com/data-exploration-with-python-3
+https://www.datacamp.com/community/tutorials/exploratory-data-analysis-python
+https://www.analyticsvidhya.com/blog/2014/09/data-munging-python-using-pandas-baby-steps-python/
+https://www.listendata.com/2017/04/how-to-standardize-variable-in-regression.html
+https://www.analyticsvidhya.com/blog/2016/01/guide-data-exploration/
+https://www.analyticsvidhya.com/blog/2015/04/comprehensive-guide-data-exploration-sas-using-python-numpy-scipy-matplotlib-pandas/
+https://towardsdatascience.com/introduction-to-data-visualization-in-python-89a54c97fbed
+https://www.kaggle.com/benhamner/python-data-visualizations
+https://cognitiveclass.ai/courses/data-visualization-with-python/
+https://nbviewer.jupyter.org/github/lksfr/TowardsDataScience/blob/master/pandas-profiling.ipynb
+
+probability-distributions-data-science/
+https://www.analyticsvidhya.com/blog/2017/02/basic-probability-data-science-with-examples/
+
+machine leraning project walk throught
+https://www.datasciencecentral.com/profiles/blogs/a-complete-machine-learning-project-walk-through-in-python-part
+
+For statistics
+https://stattrek.com/tutorials/ap-statistics-tutorial.aspx
+https://www.mathsisfun.com/data/standard-normal-distribution.html
+
+https://www.datacamp.com/community/tutorials/understanding-logistic-regression-python
+https://towardsdatascience.com/understanding-logistic-regression-9b02c2aec102
+https://github.com/justmarkham/DAT8/blob/master/slides/06_machine_learning.pdf
+
+
+
+
+Normalization & Scaling 
+=======================
+https://medium.com/@zaidalissa/standardization-vs-normalization-da7a3a308c64
+https://sebastianraschka.com/Articles/2014_about_feature_scaling.html
+https://www.quora.com/Which-machine-algorithms-require-data-scaling-normalization
+https://towardsdatascience.com/normalization-vs-standardization-quantitative-analysis-a91e8a79cebf
+https://medium.com/@zaidalissa/standardization-vs-normalization-da7a3a308c64
+https://machinelearningmastery.com/how-to-transform-data-to-fit-the-normal-distribution/
+https://machinelearningmastery.com/rescaling-data-for-machine-learning-in-python-with-scikit-learn/
+https://www.listendata.com/2017/04/how-to-standardize-variable-in-regression.html
+
+
+Git hubs 
+=========
+https://github.com/TVMKISHORE/R_Source/blob/R_Source/logistic%20regression%20glm.R
+https://github.com/TVMKISHORE/R_Source
+https://github.com/haiqinggatech/https-github.com-abhat222-Data-Science--Cheat-Sheet
+https://github.com/TVMKISHORE/PYTHON/blob/master/Topics.txt
+ttps://github.com/sundark7Github/Machine-Learning-Models
+https://sejdemyr.github.io/r-tutorials/basics/vectors/
+https://www.analyticsvidhya.com/blog/2017/09/6-probability-distributions-data-science/
+
+https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/
+
+Models
+
+https://www.datasciencecentral.com/profiles/blogs/14-great-articles-and-tutorials-on-clustering
+https://github.com/haiqinggatech/https-github.com-abhat222-Data-Science--Cheat-Sheet
+https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+
+NPTEL
+AN INTRODUCTION TO MACHINE LEARNING
+https://nptel.ac.in/noc/individual_course.php?id=noc18-cs26
+INTRODUCTION TO DATA ANALYTICS
+https://nptel.ac.in/courses/110106072/8
+
+BOOKS:
+OPENTINTRO STATISTICS
+https://www.openintro.org/download.php?file=os2_tablet&referrer=/
+
+REPOSITORIES FOR DATA SETS
+https://archive.ics.uci.edu/ml/datasets.php?format=&task=reg&att=&area=&numAtt=&numIns=&type=&sort=nameUp&view=table
+https://www.kaggle.com/
+https://www.kdnuggets.com/
+https://scikit-learn.org/stable/index.html
+
+Stattrek.com ->Ap-stats
+https://support.minitab.com/en-us/minitab-express/1/help-and-how-to/basic-statistics/probability-distributions/supporting-topics/basics/continuous-and-discrete-probability-distributions/
+
+http://benalexkeen.com/k-means-clustering-in-python/
+https://towardsdatascience.com/the-dummys-guide-to-creating-dummy-variables-f21faddb1d40
+https://www.analyticsvidhya.com/blog/2015/11/easy-methods-deal-categorical-variables-predictive-modeling/
+
